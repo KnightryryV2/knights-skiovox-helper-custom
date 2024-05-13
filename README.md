@@ -1,6 +1,8 @@
 # Skiovox Helper
 ### The helper extension for the Skiovox exploit.
 
+# ATTENTION!!! IF YOU ARE ON VERSION 119, REFER TO [THIS LINK](https://github.com/bypassiwastaken/skiovox-helper/issues/106)
+
 ## Install
 
 **Installation steps can be seen in the "stage 3" section on [skiovox.com](https://skiovox.com)**
