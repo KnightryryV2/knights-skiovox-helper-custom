@@ -3,11 +3,17 @@
   box-sizing: border-box;
 }
 
-body {
+/*body {
   padding: 8px;
   background: #212121;
   color: #ffffff;
-}
+}*/
+
+body {
+  padding: 8px;
+  background-image: url("background.png");
+  background-color: #cccccc;
+ }
 
 .top-left {
   position: fixed;
